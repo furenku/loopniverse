@@ -1,17 +1,14 @@
 # User Story
 
-[ ] IxD
-
-[ ] IA
-
-[ ] WF
-
-[ ] UI
+- [ ] IxD
+- [ ] IA
+- [ ] WF
+- [ ] UI
 
 
 # Actions (IxD)
 
-[ ] Some Action
+- [ ] Some Action
 
 
 # Data (IA)
@@ -33,17 +30,13 @@ Some text...
 
 ### Acceptance Criteria
 
-[ ] Some Criterion
+- [ ] Some Criterion
 
 
 ### Definition of Done
 
-[ ] INSTRUMENT integration
-
-[ ] REST
-
-[ ] Documentation
-
-[ ] Deploy
-
-[ ] Test
+- [ ] INSTRUMENT integration
+- [ ] REST
+- [ ] Documentation
+- [ ] Deploy
+- [ ] Test
