@@ -1,8 +1,11 @@
 # User Story
 
 [ ] IxD
+
 [ ] IA
+
 [ ] WF
+
 [ ] UI
 
 
@@ -36,7 +39,11 @@ Some text...
 ### Definition of Done
 
 [ ] INSTRUMENT integration
+
 [ ] REST
+
 [ ] Documentation
+
 [ ] Deploy
+
 [ ] Test
