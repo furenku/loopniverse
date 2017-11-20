@@ -35,6 +35,7 @@ Some text...
 
 ### Definition of Done
 
+[ ] INSTRUMENT integration
 [ ] REST
 [ ] Documentation
 [ ] Deploy
